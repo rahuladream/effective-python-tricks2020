@@ -1,0 +1,1 @@
+# Python Shitty Effective Tricks
